@@ -1,0 +1,1 @@
+This folder contains both the apps themselves and the source codes of them.
